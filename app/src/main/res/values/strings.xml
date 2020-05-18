@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MisActivities</string>
+    <string name="btn_llamar">Llamar por telefono</string>
+    <string name="btn_nueva_activity">Nueva Actividad</string>
+    <string name="lb_segunda_activity">algo mas señor bruce wayne?</string>
+    <string name="btn_resultado">Enviar resultado</string>
+    <string name="btn_enviar">Esperar resultado</string>
+</resources>

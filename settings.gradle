@@ -1,0 +1,2 @@
+rootProject.name='MisActivities'
+include ':app'
